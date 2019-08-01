@@ -1,12 +1,12 @@
 {
-    "name": "infinety-es/nova-filemanager",
+    "name": "utilitarienne/nova-filemanager",
     "description": "Filemanager tool for Laravel Nova",
     "keywords": [
         "laravel",
         "nova",
         "filemanager"
     ],
-    "homepage": "https://github.com/InfinetyEs/nova-filemanager",
+    "homepage": "https://github.com/utilitarienne/nova-filemanager",
     "license": "MIT",
     "authors": [
         {
